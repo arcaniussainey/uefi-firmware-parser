@@ -1,3 +1,6 @@
+#Forked in order to breakdown and understand the code better
+
+
 UEFI Firmware Parser
 ====================
 
